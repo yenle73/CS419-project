@@ -1,0 +1,452 @@
+<root>
+<query id="1">what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft .
+</query>
+<query id="2">what are the structural and aeroelastic problems associated with flight of high speed aircraft .
+</query>
+<query id="3">what problems of heat conduction in composite slabs have been solved so far .
+</query>
+<query id="4">can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium .
+</query>
+<query id="5">what chemical kinetic system is applicable to hypersonic aerodynamic problems .
+</query>
+<query id="6">what theoretical and experimental guides do we have as to turbulent couette flow behaviour .
+</query>
+<query id="7">is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack .
+</query>
+<query id="8">what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack.
+</query>
+<query id="9">papers on internal /slip flow/ heat transfer studies .
+</query>
+<query id="10">are real-gas transport properties for air available over a wide range of enthalpies and densities .
+</query>
+<query id="11">is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation .
+</query>
+<query id="12">how can the aerodynamic performance of channel flow ground effect machines be calculated .
+</query>
+<query id="13">what is the basic mechanism of the transonic aileron buzz .
+</query>
+<query id="14">papers on shock-sound wave interaction .
+</query>
+<query id="15">material properties of photoelastic materials .
+</query>
+<query id="16">can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer .
+</query>
+<query id="17">can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem .
+</query>
+<query id="18">are experimental pressure distributions on bodies of revolution at angle of attack available .
+</query>
+<query id="19">does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results .
+</query>
+<query id="20">has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions .
+</query>
+<query id="21">why does the compressibility transformation fail to correlate the high speed data for helium and air .
+</query>
+<query id="22">did anyone else discover that the turbulent skin friction is not over sensitive to the nature of the variation of the viscosity with temperature .
+</query>
+<query id="23">what progress has been made in research on unsteady aerodynamics .
+</query>
+<query id="24">what are the factors which influence the time required to invert large structural matrices .
+</query>
+<query id="25">does a practical flow follow the theoretical concepts for the interaction between adjacent blade rows of a supersonic cascade .
+</query>
+<query id="26">what is a single approximate formula for the displacement thickness of a laminar boundary layer in compressible flow on a flat plate .
+</query>
+<query id="27">how is the design of ring or part ring wings by linear theory affected by thickness .
+</query>
+<query id="28">what application has the linear theory design of curved wings .
+</query>
+<query id="29">what is the effect of cross sectional shape on the flow over simple delta wings with sharp leading edges .
+</query>
+<query id="30">papers on flow visualization on slender conical wings .
+</query>
+<query id="31">what size of end plate can be safely used to simulate two-dimensional flow conditions over a bluff cylindrical body of finite aspect ratio .
+</query>
+<query id="32">to find an approximate correction for thickness in slender thin-wing theory .
+</query>
+<query id="33">how do interference-free longitudinal stability measurements (made using free-flight models) compare with similar measurements made in a low-blockage wind tunnel .
+</query>
+<query id="34">have wind tunnel interference effects been investigated on a systematic basis .
+</query>
+<query id="35">are there any papers dealing with acoustic wave propagation in reacting gases .
+</query>
+<query id="36">has anyone investigated relaxation effects on gaseous heat transfer to a suddenly heated wall .
+</query>
+<query id="37">are there any theoretical methods for predicting base pressure .
+</query>
+<query id="38">does transition in the hypersonic wake depend on body geometry and size
+</query>
+<query id="39">how can one detect transition phenomena in boundary layers .
+</query>
+<query id="40">how can one detect transition phenomena in hypersonic wakes .
+</query>
+<query id="41">has anyone investigated and developed a simple model for the vortex wake behind a cruciform wing .
+</query>
+<query id="42">what is a criterion that the transonic flow around an airfoil with a round leading edge be validly analyzed by the linearized transonic flow theory .
+</query>
+<query id="43">can the transonic flow around an arbitrary smooth thin airfoil be analysed in a simple approximate way .
+</query>
+<query id="44">what are the details of the rigorous kinetic theory of gases . (chapman-enskog theory) .
+</query>
+<query id="45">has anyone investigated the effect of surface mass transfer on hypersonic viscous interactions .
+</query>
+<query id="46">what is the combined effect of surface heat and mass transfer on hypersonic flow .
+</query>
+<query id="47">what are the existing solutions for hypersonic viscous interactions over an insulated flat plate .
+</query>
+<query id="48">what controls leading-edge attachment at transonic speeds .
+</query>
+<query id="49">can the three-point boundary-value problem for the blasius equation be integrated numerically,  using suitable transformations,  without iteration on the boundary conditions .
+</query>
+<query id="50">what are the effects of small amounts of gas rarefaction on the characteristics of the boundary layers on slender bodies of revolution .
+</query>
+<query id="51">what is the available information pertaining to boundary layers on very slender bodies of revolution in continuum flow (the transverse curvature  effect) .
+</query>
+<query id="52">what is the available information pertaining to the effect of slight rarefaction on boundary layer flows (the slip effect) .
+</query>
+<query id="53">what investigations have been made of the flow field about a body moving through a rarefied,  partially ionized gas in the presence of a magnetic field .
+</query>
+<query id="54">how is the heat transfer downstream of the mass transfer region effected by mass transfer at the nose of a blunted cone .
+</query>
+<query id="55">to what extent can the available information for incompressible boundary layers be applied to problems involving compressible boundary layers .
+</query>
+<query id="56">to what extent can readily available steady-state aerodynamic data be utilized to predict lifting-surface flutter characteristics .
+</query>
+<query id="57">what are the significant steady and non-steady flow characteristics which affect the flutter mechanism .
+</query>
+<query id="58">is it possible to determine rates of forced convective heat transfer from heated cylinders of non-circular cross-section,  (the fluid flow being along the generators) .
+</query>
+<query id="59">how much is known about boundary layer flows along non-circular cylinders .
+</query>
+<query id="60">is there any simple,  but practical,  method for numerical integration of the mixing problem (i.e. the blasius problem with three-point boundary conditions) .
+</query>
+<query id="61">does there exist a closed-form expression for the local heat transfer around a yawed cylinder .
+</query>
+<query id="62">how far around a cylinder and under what conditions of flow,  if any, is the velocity just outside of the boundary layer a linear function of the distance around the cylinder .
+</query>
+<query id="63">where can i find pressure data on surfaces of swept cylinders .
+</query>
+<query id="64">can't the static deflection shapes be used in predicting flutter in place of vibrational shapes . if so,  can we provide a justification by means of an example .
+</query>
+<query id="65">does the boundary layer on a flat plate in a shear flow induce a pressure gradient .
+</query>
+<query id="66">can the procedure of matching inner and outer solutions for a viscous flow problem be applied when the main stream is a shear flow .
+</query>
+<query id="67">can series expansions be found for the boundary layer on a flat plate in a shear flow .
+</query>
+<query id="68">what possible techniques are available for computing the injection distribution corresponding to an isothermal transpiration cooled hemisphere .
+</query>
+<query id="69">what is known regarding asymptotic solutions to the exact boundary layer equations .
+</query>
+<query id="70">previous solutions to the boundary layer similarity equations .
+</query>
+<query id="71">experimental results on hypersonic viscous interaction .
+</query>
+<query id="72">what has been done about viscous interactions in relatively low reynolds number flows,  particularly at high mach numbers .
+</query>
+<query id="73">what role does the effect of chemical reaction (particularly when out of equilibrium) play in the similitude laws governing hypersonic flows over slender aerodynamic bodies .
+</query>
+<query id="74">how significant is the possible pressure of a dissociated free stream with respect to the realization of hypersonic simulation in high enthalpy wind tunnels .
+</query>
+<query id="75">do the discrepancies among current analyses of the vorticity effect on stagnation-point heat transfer result primarily from the differences in the viscosity-temperature law assumed .
+</query>
+<query id="76">how far can one trust the linear viscosity-temperature solution assumed in some of the analyses of hypersonic shock layer at low reynolds number .
+</query>
+<query id="77">how close is the comparison of the shock layer theory with existing experiments in the low reynolds number (merged-layer) regime .
+</query>
+<query id="78">has anyone explained the kink in the surge line of a multi-stage axial compressor .
+</query>
+<query id="79">have any aerodynamic derivatives been measured at hypersonic mach numbers and comparison been made with theoretical work .
+</query>
+<query id="80">are methods of measuring aerodynamic derivatives available which could be adopted for use in short running time facilities .
+</query>
+<query id="81">what are wind-tunnel corrections for a two-dimensional aerofoil mounted off-centre in a tunnel .
+</query>
+<query id="82">how do kuchemann's and multhopp's methods for calculating lift distributions on swept wings in subsonic flow compare with each other and with experiment .
+</query>
+<query id="83">what is the present state of the theory of quasi-conical flows .
+</query>
+<query id="84">references on the methods available for accurately estimating aerodynamic heat transfer to conical bodies for both laminar and turbulent flow .
+</query>
+<query id="85">what parameters can seriously influence natural transition from laminar to turbulent flow on a model in a wind tunnel .
+</query>
+<query id="86">can a satisfactory experimental technique be developed for measuring oscillatory derivatives on slender sting-mounted models in supersonic wind tunnels .
+</query>
+<query id="87">what effect has the boundary layer in modifying the basic inviscid flow behind the shock,  neglecting effects of leading edge and corner .
+</query>
+<query id="88">how does a satellite orbit contract under the action of air drag in an atmosphere in which the scale height varies with altitude .
+</query>
+<query id="89">how is the flow at transonic speeds about a delta wing different from that on a closely-related tapered sweptback wing .
+</query>
+<query id="90">recent data on shock-induced boundary-layer separation .
+</query>
+<query id="91">what interference effects are likely at transonic speeds .
+</query>
+<query id="92">given complete freedom in the design of an airplane,  what procedure would be used in order to minimize sonic boom intensity,  and is there a limit to the degree of minimizing that can be accomplished .
+</query>
+<query id="93">can methane-air combustion product be used as a hypersonic test medium and predict, within experimental accuracies, the results obtained in air .
+</query>
+<query id="94">what is the theoretical heat transfer rate at the stagnation point of a blunt body .
+</query>
+<query id="95">what is the theoretical heat transfer distribution around a hemisphere .
+</query>
+<query id="96">has anyone investigated the unsteady lift distributions on finite wings in subsonic flow .
+</query>
+<query id="97">what information is available for dynamic response of airplanes to gusts  or blasts in the subsonic regime .
+</query>
+<query id="98">will forward or apex located controls be effective at low subsonic speeds and how do they compare with conventional trailing-edge flaps .
+</query>
+<query id="99">given that an uncontrolled vehicle will tumble as it enters an atmosphere, is it possible to predict when and how it will stop tumbling and its subsequent motion .
+</query>
+<query id="100">what are the effects of initial imperfections on the elastic buckling of cylindrical shells under axial compression .
+</query>
+<query id="101">why does the incremental theory and the deformation theory of plastic stress-strain relationship differ greatly when applied to stability problems .
+</query>
+<query id="102">basic dynamic characteristics of structures continuous over many spans .
+</query>
+<query id="103">is the information on the buckling of sandwich sphere available .
+</query>
+<query id="104">can the load deformation characteristics of a beam be obtained with the material being inelastic and a non uniform temperature being present .
+</query>
+<query id="105">what is the effect of an internal liquid column on the breathing vibrations of a cylindrical shell .
+</query>
+<query id="106">experimental techniques in shell vibration .
+</query>
+<query id="107">in summarizing theoretical and experimental work on the behaviour of a typical aircraft structure in a noise environment is it possible to develop a design procedure .
+</query>
+<query id="108">what data is there on the fatigue of structures under acoustic loading .
+</query>
+<query id="109">panels subjected to aerodynamic heating .
+</query>
+<query id="110">can increasing the edge loading of a plate beyond the critical value for buckling change the buckling mode .
+</query>
+<query id="111">have the effects of an elastic edge restraint been considered in previous papers on panel flutter .
+</query>
+<query id="112">has the solution of the clamped plate problem,  in the classical theory of bending,  been reduced to two successive membrane boundary value problems .
+</query>
+<query id="113">what data exists on oscillatory aerodynamic forces on control surfaces at transonic mach numbers .
+</query>
+<query id="114">it is not likely that the airforces on a wing of general planform oscillating in transonic flow can be determined by purely analytical methods . is it possible to determine the airforces on a single particular planform, such as the rectangular one by such method .
+</query>
+<query id="115">is the problem of similarity for representative investigations of aeroelastic effects in heated flow as intractable as previous investigations imply .
+</query>
+<query id="116">what is the magnitude and distribution of lift over the cone and the cylindrical portion of a cone-cylinder configuration .
+</query>
+<query id="117">is there any information on how the addition of a /boat-tail/ affects the normal force on the body of various angles of incidence .
+</query>
+<query id="118">what are the aerodynamic interference effects on the fin lift and body lift of a fin-body combination .
+</query>
+<query id="119">what is the effect of initial axisymmetric deviations from circularity on the non linear (large-deflection) load-deflection response of cylinders under hydrostatic pressure .
+</query>
+<query id="120">are previous analyses of circumferential thermal buckling of circular cylindrical shells unnecessarily involved or even inaccurate due to the assumed forms of buckling mode .
+</query>
+<query id="121">what papers are there dealing with circumferential buckling either thermal buckling or due to mechanical loading .
+</query>
+<query id="122">what analytical investigations have been made of the stability of conical shells . how do the results compare with experiment .
+</query>
+<query id="123">has any work been done on determining the nature of compressible viscous flow in a straight channel .
+</query>
+<query id="124">in what areas, other than low density wind tunnel flows, is viscous compressible flow in slender channels a problem . what analytical investigations have been made of the stability of conical shells . how do the results compare with experiment .
+</query>
+<query id="125">jet interference with supersonic flow  -dash experimental papers .
+</query>
+<query id="126">thrust vector control by fluid injection -dash papers .
+</query>
+<query id="127">is it possible to obtain a reasonably simple analytical solution to the heat equation for an exponential (in time) heat input .
+</query>
+<query id="128">has anyone programmed a pump design method for a high-speed digital computer .
+</query>
+<query id="129">has anyone derived simplified pump design equation from the fundamental three-dimensional equations for incompressible nonviscous flow .
+</query>
+<query id="130">what are the flutter characteristics of the exposed skin panels of the x-15 vertical stabilizer when subjected to aerodynamic heating .
+</query>
+<query id="131">what agreement is found between theoretically predicted instability times and experimentally measured collapse times for compressed columns in creep .
+</query>
+<query id="132">theoretical studies of creep buckling .
+</query>
+<query id="133">experimental studies of creep buckling .
+</query>
+<query id="134">is it possible to correlate the results on the creep buckling of widely different structures within the framework of a single theory .
+</query>
+<query id="135">what are the experimental results for the creep buckling of columns .
+</query>
+<query id="136">what are the results for the creep buckling of round tubes under external pressure .
+</query>
+<query id="137">have any analytical studies been conducted on the time-to-failure mechanism associated with creep collapse for a long circular cylindrical shell which exhibits both primary and secondary creep as well as elastic deformations under various distributed force systems .
+</query>
+<query id="138">has the effect of initial stresses,  on the frequencies of vibration of circular cylindrical shells,  been investigated .
+</query>
+<query id="139">has the effect of the change of initial pressure due to deformation,  on the frequencies of vibration of circular cylindrical shells been investigated .
+</query>
+<query id="140">what are the discontinuity stresses at junctions in pressurized structures .
+</query>
+<query id="141">what analytical solutions are available for stresses in edge-loaded shells of revolution .
+</query>
+<query id="142">what dome contours minimize discontinuity stresses when used as closures on cylindrical pressure vessels .
+</query>
+<query id="143">what general solutions for the stresses in pressurized shells of revolution are available .
+</query>
+<query id="144">can studies of pure membrane cylinders having no wall bending stiffness but maintaining their shape by virtue of internal pressure provide any insight into the behaviour of pressurized cylinders with finite wall stiffness .
+</query>
+<query id="145">what are the best experimental data and classical small deflection theory analyses available for pressurized cylinders in bending .
+</query>
+<query id="146">does a membrane theory exist by which the behaviour of pressurized membrane cylinders in bending can be predicted .
+</query>
+<query id="147">what are the equations which define the stability of simply supported corrugated core sandwich cylinders .
+</query>
+<query id="148">papers on small deflection theory for buckling of sandwich cylinders .
+</query>
+<query id="149">has anyone developed an analysis which accurately establishes the large deflection behaviour of conical shells .
+</query>
+<query id="150">what is the magnitude of second-order wing-body interference at high supersonic mach number .
+</query>
+<query id="151">what is the best theoretical method for calculating pressure on the surface of a wing alone .
+</query>
+<query id="152">how can the effect of the boundary-layer on wing pressure be calculated, and what is its magnitude .
+</query>
+<query id="153">how should the navier-stokes difference equations be solved .
+</query>
+<query id="154">which  iterative method for solving linear elliptic difference equations is most rapidly convergent .
+</query>
+<query id="155">technical report on measurement of ablation during flight .
+</query>
+<query id="156">what qualitative and quantitative material is available on ablation materials research .
+</query>
+<query id="157">have flow fields been calculated for blunt-nosed bodies and compared with experiment for a wide range of free stream conditions and body shapes .
+</query>
+<query id="158">what are the available properties of high-temperature air .
+</query>
+<query id="159">what is the magnitude of aerodynamic damping in flexible vibration modes of a slender body of revolution characteristic of launch vehicles .
+</query>
+<query id="160">compressive circumferential stresses in a torispherical shell reveal the possibility of buckling under internal pressure . has anyone investigated for which ranges of shell parameters these stresses are sufficiently large to cause elastic buckling .
+</query>
+<query id="161">is there an integral method to give a single and sufficiently accurate method of calculating the laminar separate point for various incompressible and compressible boundary layers with zero heat transfer .
+</query>
+<query id="162">what accurate or exact solutions of the laminar separation point for various incompressible and compressible boundary layers with zero heat transfer are available .
+</query>
+<query id="163">can the hypersonic similarity results be applied to the technique of predicting surface pressures of an ogive forebody at angle of attack .
+</query>
+<query id="164">what determines the onset of shock-induced boundary-layer separation .
+</query>
+<query id="165">are the stable profiles of a compressible boundary layer induced by a moving wave known .
+</query>
+<query id="166">are there experimental results on the stability of a compressible boundary layer induced by a moving wave .
+</query>
+<query id="167">exact solution methods for calculating the ablative mass loss of a material ablating at high temperatures in a hypersonic flight environment .
+</query>
+<query id="168">what approximate solutions are known to the direct problem of transonic flow in the throat of a nozzle,  i.e. finding the flow in a given nozzle .
+</query>
+<query id="169">what approximate solutions are known to the indirect problem of transonic flow in the throat of a nozzle,  i.e. finding a nozzle which has a given axial velocity distribution .
+</query>
+<query id="170">why do users of orthodox pitot-static tubes often find that the calibrations appear to be,. - (a) significantly different from those formerly specified,  (b) wildly variable at low reynolds numbers .
+</query>
+<query id="171">has a comparison been made between interference-free drag measurements using free-flight models and similar measurements made in a low-blockage wind tunnel .
+</query>
+<query id="172">solution of the blasius problem with three-point boundary conditions .
+</query>
+<query id="173">references on lyapunov's method on the stability of linear differential equations with periodic coefficients .
+</query>
+<query id="174">obtain all papers and reports that contain shock detachment distance data .
+</query>
+<query id="175">work on flow in channels at low reynolds numbers .
+</query>
+<query id="176">some approximate analytical heat conduction solutions using methods other than biot's principle .
+</query>
+<query id="177">what mode of stalling can be expected for each stage of an axial compressor .
+</query>
+<query id="178">has a criterion been established for determining the axial compressor choking line .
+</query>
+<query id="179">has a theory of quasi-conical flows been developed, in supersonic linearised theory, for which the upwash distribution on the lifting surface, apart from being a homogeneous function in the co-ordinate, is permitted to have a quite general functional form .
+</query>
+<query id="180">how does scale height vary with altitude in an atmosphere .
+</query>
+<query id="181">jet interference with supersonic flows theoretical papers .
+</query>
+<query id="182">effects of leading-edge bluntness on the flutter characteristics of some square-planform double-wedge airfoils at mach numbers less than 15.4.
+</query>
+<query id="183">what factors have been shown to have a primary influence on sonic boom strength .
+</query>
+<query id="184">work on small-oscillation re-entry motions .
+</query>
+<query id="185">experimental studies on panel flutter .
+</query>
+<query id="186">how can wing-body,  flow field interference effects be approximated rationally .
+</query>
+<query id="187">has anyone analytically or experimentally investigated the effects of internal pressure on the buckling of circular-cylindrical shells under bending .
+</query>
+<query id="188">what theoretical and experimental work has been done on the excitation and response of typical structures in a noise environment .
+</query>
+<query id="189">is there a design method for calculating thermal fatigue endurances of components of various types and sizes in a variety of circumstances .
+</query>
+<query id="190">will an analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is the minimum number of modes that need be considered .
+</query>
+<query id="191">what is the criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances .
+</query>
+<query id="192">papers dealing with uniformly loaded sectors .
+</query>
+<query id="193">general methods of solving clamped plate problems .
+</query>
+<query id="194">how can the analytical solution of the buckling strength of a uniform circular cylinder loaded in axial compression be refined so as to lower the buckling load .
+</query>
+<query id="195">in the problem of the buckling strength of uniform circular cylinders loaded in axial compression,  does the linear solution help with improving the non-linear one .
+</query>
+<query id="196">the problem of similarity for representative investigation of aeroelastic effects in a flow with the absence of heating effects .
+</query>
+<query id="197">how is fatigue damage estimated using the normal long-hand method .
+</query>
+<query id="198">is there any information available on the difference in the effects of various edge conditions on the buckling of cylindrical shells .
+</query>
+<query id="199">have non-linear large deflection analyses been conducted for shell shapes other than conical .
+</query>
+<query id="200">are asymptotic methods sufficiently accurate in the determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods .
+</query>
+<query id="201">what are the nonequilibrium chemical constituents in the viscous shock layer ahead of a blunt re-entry vehicle .
+</query>
+<query id="202">how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds .
+</query>
+<query id="203">are simple empirical methods of any use for estimating pressure distribution in cones .
+</query>
+<query id="204">do viscous effects seriously modify pressure distributions .
+</query>
+<query id="205">has anyone investigated theoretically whether surface flexibility can stabilize a laminar boundary layer .
+</query>
+<query id="206">how do subsonic and transonic flutter data measured in the new langley transonic dynamics tunnel compare with similar data obtained in other facilities .
+</query>
+<query id="207">how do large changes in new mass ratio quantitatively affect wing-flutter boundaries .
+</query>
+<query id="208">what is the effect of the shape of the drag polar of a lifting spacecraft on the amount of reduction in maximum deceleration obtainable by continuously varying the aerodynamic coefficients during re-entry .
+</query>
+<query id="209">what are the physical significance and characteristics of separated laminar and turbulent boundary layer flows .
+</query>
+<query id="210">has anyone analytically investigated the stabilizing influence of soft elastic cores on the buckling strength of cylindrical shells subjected to non-uniform external pressure .
+</query>
+<query id="211">what papers are available on the buckling of empty cylindrical shells under non-uniform pressure .
+</query>
+<query id="212">what effect do thermal stresses have on the compressive buckling strength of ring-stiffened cylinders .
+</query>
+<query id="213">what is the effect on cylinder buckling of a circumferential stress system that varies in the axial direction .
+</query>
+<query id="214">can non-linear shallow shell analysis be reduced to an engineering technique by use of the matrix .
+</query>
+<query id="215">is it possible to predict the shape of a shroud which will allow simulation of the nose region flow field for a sphere in hypersonic flow .
+</query>
+<query id="216">what investigations have been made of the wave system created by a static pressure distribution over a liquid surface .
+</query>
+<query id="217">has anyone investigated the effect of shock generated vorticity on heat transfer to a blunt body .
+</query>
+<query id="218">what is the heat transfer to a blunt body in the absence of vorticity .
+</query>
+<query id="219">what are the general effects on flow fields when the reynolds number is small .
+</query>
+<query id="220">find a calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
+</query>
+<query id="221">papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
+</query>
+<query id="222">has anyone investigated the shear buckling of stiffened plates .
+</query>
+<query id="223">papers on shear buckling of unstiffened rectangular plates under shear .
+</query>
+<query id="224">in practice, how close to reality are the assumptions that the flow in a hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
+</query>
+<query id="225">what design factors can be used to control lift-drag ratios at mach numbers above 5 .
+</query>
+</root>
